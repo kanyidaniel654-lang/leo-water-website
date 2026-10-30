@@ -207,8 +207,10 @@
 
 </body>
 </html>
-href="https://wa.me/254748892893?text=Hello%20Leo%20Water%20Company"
-@media (max-width: 600px) {
+<section class="section contact" id="contact">
+  <h2>Ready to Place an Order?</h2>
+  <p>Contact Leo Water Company on WhatsApp.</p>
+  <a class="button" href="https://wa.me/2547XXXXXXXX?@media (max-width: 600px) {
   header h1 {
     font-size: 20px;
   }
