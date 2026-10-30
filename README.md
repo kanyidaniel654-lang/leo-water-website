@@ -208,3 +208,14 @@
 </body>
 </html>
 href="https://wa.me/254748892893?text=Hello%20Leo%20Water%20Company"
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 20px;
+  }
+  .hero h2 {
+    font-size: 28px;
+  }
+  .products {
+    grid-template-columns: 1fr; /* Stack products vertically on small screens */
+  }
+}
