@@ -19,7 +19,7 @@
       line-height: 1.6;
     }
 
-    header {
+    header {<a class="button" href="#products">Order Here</a>
       background: #063b61;
       color: white;
       padding: 20px 8%;
@@ -214,7 +214,7 @@
   header h1 {
     font-size: 20px;
   }
-  .hero h2 {
+  .hero h2 {<a class="button" href="https://wa.
     font-size: 28px;
   }
   .products {
